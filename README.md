@@ -1,2 +1,0 @@
-# agus
-Página de ciberseguridad 
